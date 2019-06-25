@@ -1,0 +1,6 @@
+[submodule "tools/dss-auth-viz"]
+	path = tools/dss-auth-viz
+	url = git@github.com:makerdao/dss-auth-viz.git
+[submodule "lib/dss-deploy-scripts"]
+	path = lib/dss-deploy-scripts
+	url = git@github.com:makerdao/dss-deploy-scripts.git
